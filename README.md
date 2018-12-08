@@ -1,3 +1,8 @@
 # AnalisisGrafos
-La librería permite la proyección de traversal sobre una base de datos en Grafo alojada en Neo4j.
-Tambien permite la aplicación de métricas: Degree, Betweennes y PageRank.
+La librería desarrollada en Python  permite:
+-Conexión con una base de datos en grafo alojada en Neo4j.
+-Aplicación de métricas: Degree, Betweennes y PageRank.
+-Especificación de traversals para Proyecciones 
+-Generación de archivos .gexf para visualizaciones.
+
+
